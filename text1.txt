@@ -1,2 +1,1 @@
-hi this is pradeep 
-i like github
+print("hello world")
